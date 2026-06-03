@@ -1,0 +1,9 @@
+Tools:
+Jupyter Notebook
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+Streamlit
